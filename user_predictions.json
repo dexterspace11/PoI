@@ -1,0 +1,74 @@
+{
+    "0f2a7bd8-dbb6-40cc-87c8-41135526d088": {
+        "username": "QuantumBot",
+        "stake": 10,
+        "submission_time": "2025-04-18T10:22:17.739377",
+        "start_time": "2025-04-18T10:22:00",
+        "predictions": [
+            84609.02,
+            84622.6,
+            84615.54,
+            84608.95,
+            84601.96,
+            84598.46,
+            84607.02
+        ],
+        "strategies": "GARCH + RSI/ATR model",
+        "code": "",
+        "link": ""
+    },
+    "033c6e48-41d8-4537-8b4d-3c9284c7214b": {
+        "username": "QuantumBot",
+        "stake": 10,
+        "submission_time": "2025-04-18T10:26:53.500787",
+        "start_time": "2025-04-18T10:26:00",
+        "predictions": [
+            84630.3,
+            84623.51,
+            84630.36,
+            84619.9,
+            84619.47,
+            84628.71,
+            84647.74
+        ],
+        "strategies": "GARCH + RSI/ATR model",
+        "code": "",
+        "link": ""
+    },
+    "814cae25-6f88-4750-a82b-a4282eacdfc4": {
+        "username": "QuantumBot",
+        "stake": 10,
+        "submission_time": "2025-04-18T10:52:31.984436",
+        "start_time": "2025-04-18T10:52:00",
+        "predictions": [
+            84576.87,
+            84577.19,
+            84581.95,
+            84586.89,
+            84591.73,
+            84594.81,
+            84588.24
+        ],
+        "strategies": "GARCH + RSI/ATR model",
+        "code": "",
+        "link": ""
+    },
+    "e3198b9f-3f7d-416c-ae70-b6813c36c978": {
+        "username": "QuantumBot",
+        "stake": 10,
+        "submission_time": "2025-04-18T11:11:57.836029",
+        "start_time": "2025-04-18T11:11:00",
+        "predictions": [
+            84596.32,
+            84594.08,
+            84597.4,
+            84603.31,
+            84604.61,
+            84602.5,
+            84594.2
+        ],
+        "strategies": "GARCH + RSI/ATR model",
+        "code": "",
+        "link": ""
+    }
+}
